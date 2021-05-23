@@ -1,5 +1,4 @@
-<h2>👋Olá, eu sou o <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
-  <p> align="left" alt=Guilherme</p> </h2 > <hr> <br> 
+<h2>👋Olá, eu sou o <a target="_blank" href="https://www.linkedin.com/in/guilhermebini"><Guilherme> </h2 > <hr> <br> 
 <!-- Links [LinkedIn, Intagram, Twitter, Youtube, e + -->
 <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
   <img align="left" alt="LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
