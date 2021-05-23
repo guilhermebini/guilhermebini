@@ -1,4 +1,4 @@
-<h1>👋Olá, eu sou o Guilherme Bini!</h1> <hr> <br> 
+<h1>👋Olá, eu sou o <a target="Guilherme Bini!" href="https://www.linkedin.com/in/guilhermebini"></h1> <hr> <br> 
 <!-- Links [LinkedIn, Intagram, Twitter, Youtube, e + -->
 <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
   <img align="left" alt="LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
