@@ -1,6 +1,4 @@
 <h2>👋Olá, eu sou o <a href="https://www.linkedin.com/in/guilhermebini/">Guilherme.</a><h2>
-<br>
-<!-- Links [LinkedIn, Intagram, Twitter, Youtube, e + -->
 <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
   <img align="left" alt="LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a target="_blank" href="https://www.instagram.com/guilhermebinii/">
