@@ -1,6 +1,7 @@
-<h2>👋Olá, eu sou o <h2> <br> 
+<h2>👋Olá, eu sou o <h2>
   <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
-    <img align="left" alt="nome" src="https://i.ibb.co/M1gLnj0/Guilherme.png"
+    <img align="left" width="32px" alt="nome" src="https://i.ibb.co/M1gLnj0/Guilherme.png"
+<br>
 <!-- Links [LinkedIn, Intagram, Twitter, Youtube, e + -->
 <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
   <img align="left" alt="LinkdeIN" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
