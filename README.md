@@ -11,7 +11,6 @@
   <img align="left" alt="email" width="32px" src="https://cdn.icon-icons.com/icons2/2131/PNG/512/email_mesasge_envelope_icon_131541.png" />
 <a target="_blank" href="https://biolinky.co/guilhermebini">
   <img align="left" alt="Biolinky" width="32px" src="https://img.icons8.com/metro/452/more.png" />
-<hr>
 <h3>Sobre Mim<h3>
 Eu sou um sêr existindo, tenho 16 anos e sou estudande do ensino médio no Brasil <br>
 Estudo programação em Ciência de Dados pela Alura <br>
