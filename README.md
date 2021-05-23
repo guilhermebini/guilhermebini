@@ -16,7 +16,7 @@
 <h3>Sobre Mim<h3>
 Eu sou um sêr existindo, tenho 16 anos e sou estudande do ensino médio no Brasil <br>
 Estudo programação em Ciência de Dados pela Alura <br>
-Eu atualmente Maio de 2021, estudei em programação um pouco de Java, HTML, lógica, e Python <br>
+Eu atualmente(Maio de 2021), estudei em programação um pouco de Java, HTML, lógica, e Python <br>
 <br>
 Atualmente não cheguei no mercado de trabalho, mas desejo muito 😄
 <hr>
