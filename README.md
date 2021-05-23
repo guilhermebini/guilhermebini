@@ -1,6 +1,6 @@
 <h2>👋Olá, eu sou o <h2>
   <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
-    <img align="left" width="32px" height="205" alt="nome" src="https://i.ibb.co/M1gLnj0/Guilherme.png"
+    <img align="left" width="200px" height="35" alt="nome" src="https://i.ibb.co/M1gLnj0/Guilherme.png"
 <br>
 <!-- Links [LinkedIn, Intagram, Twitter, Youtube, e + -->
 <a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
