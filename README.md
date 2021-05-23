@@ -13,5 +13,10 @@
   <img align="left" alt="Biolinky" width="32px" src="https://img.icons8.com/metro/452/more.png" />
 <br>
 <hr>
-<a target="_blank" href="https://www.linkedin.com/in/guilhermebini">
- <img align="up" width="200px" height="35" alt="nome" src="https://i.ibb.co/M1gLnj0/Guilherme.png" 
+<h3>Sobre Mim<h3> <br>
+Eu sou um sêr existindo, tenho 16 anos e sou estudande do ensino médio no Brasil <br>
+Estudo programação em Ciência de Dados pela Alura <br>
+Eu atualmente Maio de 2021, estudei em programação um pouco de Java, HTML, lógica, e Python <br>
+<br>
+Atualmente não cheguei no mercado de trabalho, mas desejo muito 😄
+<hr>
