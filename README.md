@@ -13,7 +13,7 @@
   <img align="left" alt="Biolinky" width="32px" src="https://img.icons8.com/metro/452/more.png" />
 <br>
 <hr>
-<h3>Sobre Mim<h3> <br>
+<h3>Sobre Mim<h3>
 Eu sou um sêr existindo, tenho 16 anos e sou estudande do ensino médio no Brasil <br>
 Estudo programação em Ciência de Dados pela Alura <br>
 Eu atualmente Maio de 2021, estudei em programação um pouco de Java, HTML, lógica, e Python <br>
