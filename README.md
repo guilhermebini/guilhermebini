@@ -7,5 +7,5 @@
 <a target ="_blank" href="https://twitter.com/GuilhermeBinii">
   <img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/metro/452/twitter.png" />
 <a target ="_blank" href="https://www.youtube.com/channel/UCfng6rsJSwMzOE6MsvDTnvg" />
-  <img align="left" alt="Youtube" width"32px" src="https://image.flaticon.com/icons/png/512/48/48968.png" </>
+  <img align="left" alt="Youtube" width="32px" src="https://image.flaticon.com/icons/png/512/48/48968.png" </>
 
