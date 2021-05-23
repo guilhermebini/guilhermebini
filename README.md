@@ -9,7 +9,7 @@
 <a target ="_blank" href="https://www.youtube.com/channel/UCfng6rsJSwMzOE6MsvDTnvg" />
   <img align="left" alt="Youtube" width="32px" src="https://image.flaticon.com/icons/png/512/48/48968.png" />
 <a target ="_blank" href="mailto:guilhermebini@outlook.com">
-  <img alig="left" alt="email" width="32px" src="https://cdn.icon-icons.com/icons2/2131/PNG/512/email_mesasge_envelope_icon_131541.png" />
+  <img align="left" alt="email" width="32px" src="https://cdn.icon-icons.com/icons2/2131/PNG/512/email_mesasge_envelope_icon_131541.png" />
 <a target="_blank" href="https://biolinky.co/guilhermebini">
   <img align="left" alt="Biolinky" width="32px" src="https://img.icons8.com/metro/452/more.png" />
 
